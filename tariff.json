@@ -1,0 +1,85 @@
+{
+  "version": "SRO 279(I)/2026",
+  "updated": "2026-10-03",
+  "note": "Domestic tariff A-1 (sanctioned load below 5 kW). Rates exclude FPA, QTA and taxes.",
+  "source_url": "https://nepra.org.pk",
+  "gst_percent": 18,
+  "protected_limit": 200,
+  "lifeline_limit": 100,
+  "lifeline": [
+    {
+      "up_to": 50,
+      "rate": 3.95,
+      "fixed_per_kw": 0
+    },
+    {
+      "up_to": 100,
+      "rate": 7.74,
+      "fixed_per_kw": 0
+    }
+  ],
+  "protected": [
+    {
+      "up_to": 100,
+      "rate": 10.54,
+      "fixed_per_kw": 200
+    },
+    {
+      "up_to": 200,
+      "rate": 13.01,
+      "fixed_per_kw": 300
+    }
+  ],
+  "unprotected": [
+    {
+      "up_to": 100,
+      "rate": 22.44,
+      "fixed_per_kw": 275
+    },
+    {
+      "up_to": 200,
+      "rate": 28.91,
+      "fixed_per_kw": 300
+    },
+    {
+      "up_to": 300,
+      "rate": 33.1,
+      "fixed_per_kw": 350
+    },
+    {
+      "up_to": 400,
+      "rate": 36.46,
+      "fixed_per_kw": 400
+    },
+    {
+      "up_to": 500,
+      "rate": 38.95,
+      "fixed_per_kw": 500
+    },
+    {
+      "up_to": 600,
+      "rate": 40.22,
+      "fixed_per_kw": 675
+    },
+    {
+      "up_to": 700,
+      "rate": 41.85,
+      "fixed_per_kw": 675
+    },
+    {
+      "up_to": null,
+      "rate": 47.2,
+      "fixed_per_kw": 675
+    }
+  ],
+  "announcements": [
+    {
+      "id": "2026-10-06-welcome",
+      "date": "2026-10-06",
+      "title_en": "Rate alerts are on",
+      "title_ur": "ریٹ الرٹس فعال ہیں",
+      "body_en": "You will get a notification here whenever electricity tariff rates change.",
+      "body_ur": "جب بھی بجلی کے نرخ تبدیل ہوں گے، آپ کو یہاں اطلاع ملے گی۔"
+    }
+  ]
+}
