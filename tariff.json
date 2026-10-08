@@ -74,6 +74,14 @@
   ],
   "announcements": [
     {
+      "id": "2026-10-08-fca-august-2026",
+      "date": "2026-10-08",
+      "title_en": "Fuel adjustment: Rs 1.11/unit increase in October bills",
+      "title_ur": "فیول ایڈجسٹمنٹ: اکتوبر کے بلوں میں 1.11 روپے فی یونٹ اضافہ",
+      "body_en": "NEPRA approved a Rs 1.11 per unit fuel adjustment for August, charged in October 2026 bills of DISCO and K-Electric consumers. Lifeline consumers are exempt.",
+      "body_ur": "نیپرا نے اگست کی فیول ایڈجسٹمنٹ کی مد میں 1.11 روپے فی یونٹ اضافے کی منظوری دی ہے، جو ڈسکوز اور کے الیکٹرک صارفین کے اکتوبر 2026 کے بلوں میں وصول کیا جائے گا۔ لائف لائن صارفین مستثنیٰ ہیں۔"
+    },
+    {
       "id": "2026-10-06-welcome",
       "date": "2026-10-06",
       "title_en": "Rate alerts are on",
